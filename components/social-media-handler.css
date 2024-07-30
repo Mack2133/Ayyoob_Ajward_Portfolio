@@ -1,0 +1,12 @@
+.hover-effect-wrapper:hover svg {
+    fill: white; /* Change icon color to white on hover */
+    transition: ease-in 0.2s all;
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
+  .hover-effect-wrapper:hover h1 {
+    color: white; /* Change text color to white on hover */
+    transition: ease-in 0.2s all;
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
